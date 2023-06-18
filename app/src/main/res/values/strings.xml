@@ -21,12 +21,9 @@
     <string name="news_fragment_label">Sports News</string>
 
     <string name="title_placeholder">Title</string>
-    <string name="news_title">News</string>
-    <string name="sports_info_placeholder">Here is some news</string>
-    <string name="sports_news_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
-        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
-        diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    <string name="news_title">detail</string>
+    <string name="sports_info_placeholder">Here is the detail</string>
+    <string name="sports_news_detail_text">A wide range of physical activities or games that involve skill, competition, and physical exertion. They are usually governed by a set of rules or regulations and often involve individual or team participation. Sports can be recreational, amateur, or professional, and they are popular worldwide due to their entertainment value, health benefits, and ability to foster camaraderie and competition among participants.</string>
     />
 
     <string name="baseball">Baseball</string>
